@@ -1,0 +1,1 @@
+export default function GradientHero(){return <section>Gradient Hero</section>}

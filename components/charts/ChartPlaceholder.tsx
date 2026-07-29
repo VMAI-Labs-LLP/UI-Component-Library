@@ -1,0 +1,1 @@
+export default function ChartPlaceholder(){return <div>Chart</div>}

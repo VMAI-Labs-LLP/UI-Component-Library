@@ -1,2 +1,3 @@
-# UI-Component-Library
-VMAI Labs UI Component Library with a reusable folder structure and placeholder React components.
+# VMAI Labs UI Component Library
+
+Reusable React + Next.js UI components with VMAI Labs branding.

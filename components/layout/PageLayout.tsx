@@ -1,0 +1,1 @@
+export default function PageLayout({children}:any){return <main>{children}</main>}

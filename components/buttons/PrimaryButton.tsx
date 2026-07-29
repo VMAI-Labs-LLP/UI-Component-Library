@@ -1,0 +1,1 @@
+export default function PrimaryButton(){return <button style={{background:'#2563EB',color:'#fff'}}>Primary</button>}
